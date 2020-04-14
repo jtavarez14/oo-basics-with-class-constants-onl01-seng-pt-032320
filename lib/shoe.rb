@@ -14,7 +14,5 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
-  if brand = brand BRANDS.pop
-  end
 
 end
